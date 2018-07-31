@@ -1,0 +1,9 @@
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\bin\Debug\netstandard2.0\Lab12.Library.deps.json
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\bin\Debug\netstandard2.0\Lab12.Library.dll
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\bin\Debug\netstandard2.0\Lab12.Library.pdb
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.csprojAssemblyReference.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.csproj.CoreCompileInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.AssemblyInfoInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.AssemblyInfo.cs
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.dll
+C:\Users\Mozzey\GrandCircus\Labs\Lab12\Lab12.Library\obj\Debug\netstandard2.0\Lab12.Library.pdb
