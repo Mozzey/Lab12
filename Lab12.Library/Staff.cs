@@ -6,18 +6,19 @@ namespace Lab12.Library
 {
     public class Staff : Person
     {
-        private string School { get; set; }
-        private double Pay { get; set; }
-
+        // props
+        private readonly string _school;
+        private readonly double _pay;
+        // ctor
         public Staff(string name, string address, double pay) : base(name, address)
         {
-            School = "Some school somewhere";
-            Pay = pay;
+            _school = "Grand Circus";
+            _pay = pay;
         }
-
+        // override of ToString method to print out the converted string for staff
         public override string ToString()
         {
-            return $"Staff[Person[{this.GetName()}, {this.GetAddress()}], {School}, {Pay}]";
+            return $"Staff[Person[{this.GetName()}, {this.GetAddress()}], {_school}, {_pay}]";
         }
     }
 }
