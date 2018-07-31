@@ -19,8 +19,7 @@ namespace Lab12.Library
 
         public override string ToString()
         {
-            var output = $"Student[Person[{this.GetName()}, {this.GetAddress()}], {Program}, {Year}, {Fee}]";
-            return output;
+            return $"Student[Person[{this.GetName()}, {this.GetAddress()}], {Program}, {Year}, {Fee}]";
         }
     }
 }
