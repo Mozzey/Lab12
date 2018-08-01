@@ -20,7 +20,7 @@ namespace Lab12.Library
         // override of the to string method to print out the formatted string for students
         public override string ToString()
         {
-            return $"Student[Person[{this.GetName()}, {this.GetAddress()}], {_program}, {_year}, {_fee}]";
+            return $"Student[{base.ToString()}], {_program}, {_year}, {_fee}]";
         }
     }
 }

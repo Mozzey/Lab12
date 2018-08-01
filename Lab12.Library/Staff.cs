@@ -18,7 +18,7 @@ namespace Lab12.Library
         // override of ToString method to print out the converted string for staff
         public override string ToString()
         {
-            return $"Staff[Person[{this.GetName()}, {this.GetAddress()}], {_school}, {_pay}]";
+            return $"Staff[{base.ToString()}], {_school}, {_pay}]";
         }
     }
 }
